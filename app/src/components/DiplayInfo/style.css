@@ -4,12 +4,18 @@
         flex-direction: column;
         height: 90px;
         padding:20px 20px;
+        max-width: 100%;
+      overflow: auto;
+        white-space: pre-wrap;
+        word-wrap: break-word;
         margin-bottom: 25px;
         border: 1px solid black;
         background: white;
 }
 .infoOperation{
         display: flex;
+        white-space: wrap;
+        word-break: break-word;
 }
 .number{
         font-size: 26px;
@@ -18,6 +24,7 @@
         padding:0;
         margin-left: 5px;
         margin-right: 5px;
+        word-break: break-word;
 }
 .result{
         color:gray;

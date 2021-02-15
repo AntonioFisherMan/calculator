@@ -5,7 +5,6 @@ import classNames from 'classnames'
 
 
 export const MathButton = ({ value, classes }) => {
-        debugger
         const { handleSetNumber } = React.useContext(CalculatorContext)
         return (
 

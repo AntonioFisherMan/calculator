@@ -26,7 +26,7 @@
         cursor: pointer;
         }
    .btnMath{
-           border:1px solid orange;
+           border:1px solid #ff9900;
            width: 70px;
                 height: 60px;
                 display: flex;
@@ -54,11 +54,11 @@
    }
    .btnResult{
            width: 160px;
-           background: orange;
+           background: #ff9900;
    }
    .btnResult:active{
         width: 160px;
-        background: orange;
+        background: #ff9900;
         height: 59px;
         box-shadow: 0 0 hsl(5, 60%, 60%);
         border: 1px solid hsl(5, 40%, 70%); 

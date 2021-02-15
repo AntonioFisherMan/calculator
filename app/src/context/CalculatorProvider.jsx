@@ -24,6 +24,7 @@ const CalculatorProvider = (props) => {
 
                 }
                 else {
+
                         setExpression(prev => prev + value)
                 }
 
