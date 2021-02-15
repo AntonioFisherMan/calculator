@@ -1,0 +1,25 @@
+body{
+  margin:0px;
+  padding:0px;
+}
+* {
+  outline: 0 !important;
+}
+img{
+  max-width: 100%;
+  margin: 0 auto;
+}
+input,
+button,
+textarea,
+select {
+  padding:0px;
+  margin:0px;
+ 
+} 
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

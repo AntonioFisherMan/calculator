@@ -1,0 +1,11 @@
+.calculator{
+      
+background: rgb(242, 226, 208);
+border:1px solid black;
+width: 340px;
+height: 520px;
+padding-top: 35px;
+padding-bottom: 40px;
+padding-left: 30px;
+padding-right: 30px;
+}
